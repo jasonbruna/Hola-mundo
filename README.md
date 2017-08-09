@@ -1,2 +1,3 @@
 # Hola-mundo
-Crear repositorio :v
+QUIERO SABER LOS COMANDOOOOS !
+print "hola mundo e.e"
